@@ -1,0 +1,20 @@
+[
+    {
+        "labels": {
+            "job": "jmx"
+        },
+        "targets": [
+            "b-1-#####.ap-northeast-2.amazonaws.com:11001",
+            "b-2-#####.ap-northeast-2.amazonaws.com:11001"
+        ]
+    },
+    {
+        "labels": {
+            "job": "node"
+        },
+        "targets": [
+            "b-1-#####.ap-northeast-2.amazonaws.com:11002",
+            "b-2-#####.ap-northeast-2.amazonaws.com:11002"
+        ]
+    }
+]
